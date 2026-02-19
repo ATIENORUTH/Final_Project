@@ -7,13 +7,13 @@
 
 **📋 Table of Contents** 
 
-1_ Project Overview
-2_ System Architecture
-3_ Features
-4_ Technical Stack 
-5_ Database Design 
-6_ Installation 
-7_ Research Context
+1. Project Overview
+2. System Architecture
+3. Features
+4. Technical Stack
+5. Database Design
+6. Installation
+7. Research Context
 
 **🚀 Project Overview**
 
